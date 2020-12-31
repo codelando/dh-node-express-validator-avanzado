@@ -6,7 +6,7 @@ const controller = require('../controllers/usersController');
 // Validaciones
 const validateCreateForm = [
     body('first_name').notEmpty().withMessage('Debes completar el campo de nombre'),
-    body('last_name').notEmpty().withMessage('Debes completar el campo de nombre'),
+    body('last_name').notEmpty().withMessage('Debes completar el campo de apellido'),
     body('email').isEmail().withMessage('Debes completar un email válido')
 ];
 

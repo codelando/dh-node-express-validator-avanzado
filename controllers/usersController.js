@@ -1,5 +1,4 @@
 const jsonTable = require('../database/jsonTable');
-
 const usersModel = jsonTable('users');
 
 module.exports = {
