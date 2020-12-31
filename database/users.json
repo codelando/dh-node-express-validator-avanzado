@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "first_name": "Laird",
+  "last_name": "Skelly",
+  "email": "lskelly0@pagesperso-orange.fr",
+  "password": "RmyWso",
+  "category": "vendedor",
+  "image": null
+ },
+ {
+  "id": 2,
+  "first_name": "Hatti",
+  "last_name": "Tythe",
+  "email": "htythe1@weebly.com",
+  "password": "tlqI7B5",
+  "category": "vendedor",
+  "image": null
+ },
+ {
+  "id": 3,
+  "first_name": "Giffer",
+  "last_name": "Knapper",
+  "email": "gknapper2@cmu.edu",
+  "password": "vUysNI0K",
+  "category": "comprador",
+  "image": null
+ },
+ {
+  "id": 4,
+  "first_name": "Roscoe",
+  "last_name": "Shorey",
+  "email": "rshorey3@theatlantic.com",
+  "password": "EUdApoL",
+  "category": "vendedor",
+  "image": null
+ },
+ {
+  "id": 5,
+  "first_name": "Sholom",
+  "last_name": "Morrilly",
+  "email": "smorrilly4@spotify.com",
+  "password": "6TFSaIgWN7",
+  "category": "comprador",
+  "image": null
+ },
+ {
+  "id": 6,
+  "first_name": "Kristel",
+  "last_name": "Coleyshaw",
+  "email": "kcoleyshaw5@earthlink.net",
+  "password": "oQfElJQbYG",
+  "category": "comprador",
+  "image": null
+ },
+ {
+  "id": 7,
+  "first_name": "Cross",
+  "last_name": "Parsell",
+  "email": "cparsell6@acquirethisname.com",
+  "password": "f0ZbL7W",
+  "category": "vendedor",
+  "image": null
+ },
+ {
+  "id": 8,
+  "first_name": "Tiphanie",
+  "last_name": "Eberdt",
+  "email": "teberdt7@gizmodo.com",
+  "password": "3jRjK81",
+  "category": "vendedor",
+  "image": null
+ },
+ {
+  "id": 9,
+  "first_name": "Olive",
+  "last_name": "Kalberer",
+  "email": "okalberer8@cornell.edu",
+  "password": "CwYaKB",
+  "category": "comprador",
+  "image": null
+ },
+ {
+  "id": 10,
+  "first_name": "Ritchie",
+  "last_name": "Labram",
+  "email": "rlabram9@washington.edu",
+  "password": "dWoPzjU8",
+  "category": "vendedor",
+  "image": null
+ }
+]

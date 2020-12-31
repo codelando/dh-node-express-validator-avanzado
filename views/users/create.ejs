@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('../partials/head') %>
+<body>
+    <%- include('../partials/header') %>
+    <main>
+        <div class="container">
+            <section>
+                <div class="columns is-centered">
+                    <div class="column is-6">
+                        <h1>Registro</h1>
+                        <form action="/users" method="POST">
+
+                            <div class="field">
+                                <label for="first_name">Nombre</label>
+                                <div class="control">
+                                    <input type="text" name="first_name" id="first_name">
+                                </div>
+                                <p class="feedback"></p>
+                            </div>
+
+                            <div class="field">
+                                <label for="last_name">Apellido</label>
+                                <div class="control">
+                                    <input type="text" name="last_name" id="last_name">
+                                </div>
+                                <p class="feedback"></p>
+                            </div>
+
+                            <div class="field">
+                                <label for="email">Email</label>
+                                <div class="control">
+                                    <input type="text" name="email" id="email">
+                                </div>
+                                <p class="feedback"></p>
+                            </div>
+
+                            <div class="field">
+                                <label for="password">Password</label>
+                                <div class="control">
+                                    <input type="text" name="password" id="password">
+                                </div>
+                                <p class="feedback"></p>
+                            </div>
+
+                            <div class="field">
+                                <label for="category">Categoría</label>
+                                <div class="control">
+                                    <select name="category" id="category">
+                                        <option value="">Seleccione una opción</option>
+                                        <option value="vendedor">Vendedor</option>
+                                        <option value="comprador">Comprador</option>
+                                    </select>
+                                </div>
+                                <p class="feedback"></p>
+                            </div>
+
+                            <div class="field">
+                                <div class="control">
+                                    <button type="submit">Crear usuario</button>
+                                </div>
+                            </div> 
+                        </form>  
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+</html>
